@@ -35,7 +35,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>src/main/resources/</classpathPrefix>
-              <mainClass>com.greg.helloGreg</mainClass>
+              <mainClass>helloGreg</mainClass>
             </manifest>
           </archive>
         </configuration>
